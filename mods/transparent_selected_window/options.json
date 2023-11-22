@@ -1,0 +1,27 @@
+{
+	"author": "Bisset",
+	
+	"author_contact": "Bisset@8172",
+	
+	"name": "Transparent Selected Window",
+	
+	"description": "Change selected windows to translucent as well",
+	// レイヤーマスク bdbdbd
+	"color_options": [
+	
+	],
+	
+	"penumbra": [
+		{
+			"name": "Selected Window",
+			"options": {
+				"Transparent": [
+					"ui/uld/windowa_bgselected_corner",
+					"ui/uld/windowa_bgselected_h",
+					"ui/uld/windowa_bgselected_hv",
+					"ui/uld/windowa_bgselected_v",
+				]
+			}
+		}
+	]
+}
